@@ -1,0 +1,65 @@
+body {
+margin: 10px;
+}
+
+hr{
+margin-top: 40px;
+margin-bottom: 40px;
+}
+
+h1 {
+text-align: center;
+margin-bottom: 50px;
+}
+
+.navh1{
+margin: 10px;
+}
+.input-cont {
+width: 100%;
+margin: 10px;
+}
+
+p {
+background: #f8f9fa;
+}
+
+.faq {
+background: white;
+border: 0.5px solid grey
+}
+
+footer{
+margin: auto;
+}
+
+footer li a {
+color: black;
+}
+
+#contdet {
+background: white;
+}
+
+.services {
+text-align: center;
+}
+
+th {
+background: grey;
+}
+
+.open-time{
+margin: auto;
+margin-top: 0px;
+}
+
+
+.footer-list {
+list-style-type: none;
+}
+
+.footer-link {
+outline: none;
+text-decoration: none;
+}
